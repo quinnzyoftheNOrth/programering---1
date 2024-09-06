@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Documents\\programering\\programering.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\programering---1\\programering.csproj",
       "projectName": "programering",
-      "projectPath": "C:\\Users\\Admin\\Documents\\programering\\programering.csproj",
+      "projectPath": "C:\\Users\\Admin\\Documents\\programering---1\\programering.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Documents\\programering\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Documents\\programering---1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
